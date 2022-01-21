@@ -1,7 +1,7 @@
 
 ![Logo](https://share-me-inc.netlify.app/assets/logo.1e4ef312.png)
 
-Share Me is a pinterest clone where users can upload images. User can alos explore pins uploaded by other users.
+Share Me is a pinterest clone where users can upload images. User can also explore pins uploaded by other users.
 
 
 ## Demo
