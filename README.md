@@ -19,8 +19,6 @@ To run this project, you will need to add the following environment variables to
 
 `GOOGLE_API_CLIENT_ID`
 
-`GOOGLE_API_CLIENT_SECRET`
-
 
 ## Features
 
